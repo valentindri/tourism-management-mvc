@@ -1,8 +1,12 @@
+using Microsoft.EntityFrameworkCore;
+using TourismManagement.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.
+builder.Services.AddDbContext<AgencyDbContext>(options => options.UseSqlServer(
+    builder.Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
 
