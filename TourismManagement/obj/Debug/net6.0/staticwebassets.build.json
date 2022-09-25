@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hXyhQrjT27N805jdC0kjHaT1gF5z+xY6uu5XR/78XCQ=",
+  "Hash": "S8mkpQeCap1qZGWD36zYKECjyyhJQyElrv8cPuUt8pE=",
   "Source": "TourismManagement",
   "BasePath": "_content/TourismManagement",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Development\\.Net\\TourismManagementApp\\TourismManagement\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TourismManagement.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Development\\.Net\\TourismManagementApp\\TourismManagement\\wwwroot\\css\\Bootswatch.css",
+      "SourceId": "TourismManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Development\\.Net\\TourismManagementApp\\TourismManagement\\wwwroot\\",
+      "BasePath": "_content/TourismManagement",
+      "RelativePath": "css/Bootswatch.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Bootswatch.css"
     },
     {
       "Identity": "D:\\Development\\.Net\\TourismManagementApp\\TourismManagement\\wwwroot\\css\\site.css",
