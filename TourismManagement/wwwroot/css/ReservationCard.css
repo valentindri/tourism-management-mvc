@@ -1,0 +1,56 @@
+﻿
+.Container {
+    width: 320px;
+    height: 180px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.13);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+    margin: 30px;
+}
+
+.Container:hover {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.50);
+}
+
+.TopSection {
+    display: flex;
+    justify-content: space-between;
+}
+
+.TopSection div{
+    margin: 10px;
+}
+
+hr{
+    margin: 5px auto;
+    width: 90%;
+}
+
+.PriceSection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 15px;
+}
+
+.PriceSection .Debt{
+    color: #8A8A8A;
+}
+
+.BottomSection{
+    display: flex;
+    justify-content: space-between;
+}
+
+.BottomSection div{
+    margin: 5px;
+}
+
+img{
+    width: 30px;
+}

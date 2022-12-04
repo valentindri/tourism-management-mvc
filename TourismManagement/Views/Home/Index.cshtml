@@ -1,7 +1,18 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
-
-<div class="text-center">
-    <h1 class="display-4">Tourism Management</h1>
+<link rel="stylesheet" href="~/css/Reservations.css" asp-append-version="true" />
+<div>
+    <h1 class="display-4">Reservations</h1>
+    <div class="ReservationsContainer">
+        <partial name="../Reservation/_ReservationCard"/>
+        <partial name="../Reservation/_ReservationCard"/>
+        <partial name="../Reservation/_ReservationCard"/>
+        <partial name="../Reservation/_ReservationCard"/>
+        <partial name="../Reservation/_ReservationCard" />
+        <partial name="../Reservation/_ReservationCard"/>
+        <partial name="../Reservation/_ReservationCard" />
+        <partial name="../Reservation/_ReservationCard"/>
+    </div>
+    
 </div>

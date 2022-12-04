@@ -266,3 +266,8 @@ D:\Development\.Net\TourismManagementApp\TourismManagement\bin\Debug\net6.0\runt
 D:\Development\.Net\TourismManagementApp\TourismManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Development\.Net\TourismManagementApp\TourismManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\Development\.Net\TourismManagementApp\TourismManagement\obj\Debug\net6.0\TourismManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Development\.Net\TourismManagementApp\TourismManagement\obj\Debug\net6.0\staticwebassets\msbuild.TourismManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Development\.Net\TourismManagementApp\TourismManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.TourismManagement.props
+D:\Development\.Net\TourismManagementApp\TourismManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TourismManagement.props
+D:\Development\.Net\TourismManagementApp\TourismManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TourismManagement.props
+D:\Development\.Net\TourismManagementApp\TourismManagement\obj\Debug\net6.0\staticwebassets.pack.json
